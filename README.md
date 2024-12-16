@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Matheusgb17 - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17)](https://github.com/anuraghazra/github-readme-stats)
 
 Atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga. Além disso, tenho atuado como mentor em uma competição de tecnologia e tenho participado de projetos para divulgar a área da computação para novos interessados.
 
@@ -25,6 +24,11 @@ Procuro oportunidades para trabalhar em projetos desafiadores que me permitam ad
 Você pode me encontrar no LinkedIn: [https://www.linkedin.com/in/matheus-batista-a49b6422b/].
 
 Pronomes: ele/dele.
+
+
+## 📊 Meus Status do Github
+[![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💻 As tecnologias que mais uso:
 
