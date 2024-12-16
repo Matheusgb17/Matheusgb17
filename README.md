@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá!👋 Bem-vindo ao meu perfil! ✨
 
 <!--
 **Matheusgb17/Matheusgb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga. Além disso, tenho atuado como mentor em uma competição de tecnologia e tenho participado de projetos para divulgar a área da computação para novos interessados.
+Tenho 19 anos e tualmente, estou cursando Ciência da Computação no IFMG Campus Formiga. Além disso, tenho atuado como mentor em uma competição de tecnologia e tenho participado de projetos para divulgar a área da computação para novos interessados.
 
 Estou aprendendo TypeScript e SQL, buscando aprimorar minhas habilidades em desenvolvimento web e gerenciamento de bancos de dados. Tenho grande interesse em colaborar com equipes dedicadas, onde possamos, juntos, desenvolver soluções inteligentes e crescer profissionalmente.
 
