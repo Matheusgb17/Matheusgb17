@@ -26,7 +26,7 @@ Você pode me encontrar no LinkedIn: [https://www.linkedin.com/in/matheus-batist
 Pronomes: ele/dele.
 
 
-## 📊 Meus Status do Github
+## 📊 Meu Status do Github
 ![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17&show_icons=true&theme=jolly)
 
 ## 💻 As tecnologias que mais uso:
