@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Matheusgb17 - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17)](https://github.com/anuraghazra/github-readme-stats)
 
 Atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga. Além disso, tenho atuado como mentor em uma competição de tecnologia e tenho participado de projetos para divulgar a área da computação para novos interessados.
 
