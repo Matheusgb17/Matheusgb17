@@ -28,9 +28,8 @@ Pronomes: ele/dele.
 
 ## 📊 Meu Status do Github
 ![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17&show_icons=true&theme=jolly)
-<div style="stroke: rgb(228, 226, 226);">
-  ![Matheus Garcia - Status do Github](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheusgb17&show_icons=true&theme=jolly)
-</div>
+![Matheus Garcia - Status do Github](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheusgb17&show_icons=true&theme=jolly)
+
 
 ## 💻 As tecnologias que mais uso:
 
