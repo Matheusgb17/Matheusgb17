@@ -27,7 +27,7 @@ Pronomes: ele/dele.
 
 
 ## 📊 Meu Status do Github
-![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=prs&rank_icon=github&theme=jolly&line_height=24) &nbsp;
+![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17\&hide=prs&rank_icon=github&theme=jolly&line_height=24) &nbsp;
 ![Matheus Garcia - Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgb17\&layout=compact&theme=jolly)
 
 ## 💻 As tecnologias que mais uso:
