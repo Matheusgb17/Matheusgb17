@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tenho 19 anos e atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga. Além disso, tenho atuado como mentor em uma competição de tecnologia e tenho participado de projetos para divulgar a área da computação para novos interessados.
+Tenho 19 anos e atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga.
 
-Estou aprendendo TypeScript e SQL, buscando aprimorar minhas habilidades em desenvolvimento web e gerenciamento de bancos de dados. Tenho grande interesse em colaborar com equipes dedicadas, onde possamos, juntos, desenvolver soluções inteligentes e crescer profissionalmente.
+Estou aprendendo TypeScript e SQL, buscando aprimorar minhas habilidades em front-end e gerenciamento de bancos de dados. Tenho grande interesse em colaborar com equipes dedicadas, onde possamos, juntos, desenvolver soluções inteligentes e crescer profissionalmente.
 
 Procuro oportunidades para trabalhar em projetos desafiadores que me permitam adquirir experiência prática em equipes reais, contribuindo ativamente para o sucesso do time enquanto ganho aprendizado valioso.
 
