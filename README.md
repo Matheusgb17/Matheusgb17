@@ -30,7 +30,7 @@ Pronomes: ele/dele.
 ![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17\&hide=prs&rank_icon=github&theme=jolly&line_height=24) &nbsp;
 ![Matheus Garcia - Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgb17\&layout=compact&theme=jolly)
 
-## 💻 As tecnologias que mais uso:
+## 💻 As tecnologias que mais domino:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -49,6 +49,7 @@ Pronomes: ele/dele.
 
 ## 📚 As tecnologias que estou aprendendo:
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
