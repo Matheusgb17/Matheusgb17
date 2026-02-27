@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tenho 19 anos e atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga.
+Tenho 21 anos e atualmente, estou cursando Ciência da Computação no IFMG Campus Formiga.
 
 Estou aprendendo TypeScript e SQL, buscando aprimorar minhas habilidades em front-end e gerenciamento de bancos de dados. Tenho grande interesse em colaborar com equipes dedicadas, onde possamos, juntos, desenvolver soluções inteligentes e crescer profissionalmente.
 
@@ -25,10 +25,6 @@ Você pode me encontrar no LinkedIn: [https://www.linkedin.com/in/matheus-batist
 
 Pronomes: ele/dele.
 
-
-## 📊 Meu Status do Github
-![Matheus Garcia - Status do Github](https://github-readme-stats.vercel.app/api?username=Matheusgb17\&hide=prs&rank_icon=github&theme=jolly&line_height=24) &nbsp;
-![Matheus Garcia - Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgb17\&layout=compact&theme=jolly)
 
 ## 💻 As tecnologias que mais domino:
 
