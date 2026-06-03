@@ -41,4 +41,5 @@ Pronomes: ele/dele.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## 💻 Confira meu Repositório ⬇️
+<br><br>
+<h2 align="center">💻 Confira meu Repositório ⬇️</h2>
