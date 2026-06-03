@@ -10,9 +10,6 @@ Você pode me encontrar no LinkedIn: [https://www.linkedin.com/in/matheus-batist
 
 Pronomes: ele/dele.
 
-## 📊 Meus gráficos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgb17&layout=compact&theme=synthwave)](https://github.com/Matheusgb17)
-
 ## 💼 Tecnologias que trabalho atualmente
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
